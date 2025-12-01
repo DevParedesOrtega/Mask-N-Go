@@ -1,0 +1,13 @@
+2025-11-29 14:24:41 - auth_controller - INFO - Usuario 'renta_test' registrado exitosamente en USUARIOS (ID=40)
+2025-11-29 14:49:28 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 14:53:45 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-11-29 15:12:15 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 17:33:59 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 18:03:57 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 18:21:11 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 18:54:06 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 19:04:00 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 19:05:35 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 19:10:13 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 19:15:15 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
+2025-11-29 19:15:31 - auth_controller - INFO - Sesión iniciada: Administrador Sistema (empleado)
