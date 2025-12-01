@@ -1,0 +1,17 @@
+2025-11-29 15:12:19 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 15:12:19 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 1
+2025-11-29 15:12:31 - inventario_controller - INFO - Stock aumentado para DISNEY0000: +1 (nuevo disponible=10)
+2025-11-29 18:04:20 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 18:08:58 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 18:21:29 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 18:23:30 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 18:54:13 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 18:54:37 - inventario_controller - INFO - Disfraz con código 'disne' no encontrado
+2025-11-29 18:54:37 - inventario_controller - INFO - Buscando disfraces por descripción 'disne' - encontrados: 0
+2025-11-29 19:04:05 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 19:05:40 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 19:10:17 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 19:10:17 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 1
+2025-11-29 19:10:22 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 19:15:21 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
+2025-11-29 19:15:35 - inventario_controller - INFO - Listando disfraces - encontrados: 1 (solo_activos=True, categoria=None)
