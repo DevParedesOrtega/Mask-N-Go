@@ -1,0 +1,21 @@
+2025-12-03 11:31:49 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-03 11:31:55 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-03 11:31:57 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-03 11:31:58 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-03 11:31:58 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-03 11:32:08 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-03 11:32:52 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-03 11:33:14 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-03 13:45:30 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'Rena' no encontrado
+2025-12-03 13:45:35 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:36 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:37 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:38 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:41 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-03 13:45:47 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:48 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 13:45:53 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-03 14:08:38 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-03 14:45:20 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-03 14:45:24 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-03 18:47:15 - auth_controller - INFO - Listado de usuarios: 3 encontrados

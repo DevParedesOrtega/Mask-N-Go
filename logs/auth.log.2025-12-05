@@ -1,0 +1,14 @@
+2025-12-05 17:30:50 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-05 17:37:13 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-05 17:37:36 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:37:41 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:37:55 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:37:56 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:38:04 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-05 17:38:06 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-05 17:38:19 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:48:01 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-05 17:48:03 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-05 17:48:13 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:48:14 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-05 17:48:21 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa

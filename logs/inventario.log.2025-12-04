@@ -1,0 +1,20 @@
+2025-12-04 16:57:39 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 16:57:39 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-04 17:09:45 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:09:45 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-04 17:24:56 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:25:55 - inventario_controller - INFO - Stock descontado para DISNEY0004: -1 (nuevo disponible=13)
+2025-12-04 17:27:17 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:27:49 - inventario_controller - INFO - Stock descontado para DISNEY0000: -1 (nuevo disponible=2)
+2025-12-04 17:27:49 - inventario_controller - INFO - Stock descontado para DISNEY0000: -1 (nuevo disponible=1)
+2025-12-04 17:27:56 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:28:36 - inventario_controller - INFO - Stock descontado para DISNEY0004: -1 (nuevo disponible=12)
+2025-12-04 17:28:36 - inventario_controller - INFO - Stock descontado para diseny0008: -1 (nuevo disponible=7)
+2025-12-04 17:29:39 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:29:39 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-04 17:46:15 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 17:46:48 - inventario_controller - INFO - Stock descontado para diseny0008: -1 (nuevo disponible=6)
+2025-12-04 18:07:04 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 18:07:14 - inventario_controller - INFO - Stock descontado para diseny0008: -1 (nuevo disponible=5)
+2025-12-04 18:24:30 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-04 18:24:40 - inventario_controller - INFO - Stock descontado para DISNEY0000: -1 (nuevo disponible=0)

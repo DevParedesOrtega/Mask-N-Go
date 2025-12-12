@@ -1,0 +1,89 @@
+2025-12-09 10:41:10 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 10:42:04 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-09 10:42:08 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 2
+2025-12-09 10:42:11 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 3
+2025-12-09 10:42:15 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:42:16 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:42:59 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 1
+2025-12-09 10:42:59 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 1
+2025-12-09 10:43:34 - login_screen - INFO - Sesión guardada para usuario: ByteOrtega
+2025-12-09 10:43:34 - login_screen - INFO - Sesión guardada para usuario: ByteOrtega
+2025-12-09 10:43:35 - login_screen - INFO - Sesión iniciada exitosamente para usuario: ByteOrtega
+2025-12-09 10:43:35 - login_screen - INFO - Sesión iniciada exitosamente para usuario: ByteOrtega
+2025-12-09 10:44:24 - login_screen - INFO - Sesión guardada para usuario: PPEREZ
+2025-12-09 10:44:24 - login_screen - INFO - Sesión guardada para usuario: PPEREZ
+2025-12-09 10:44:25 - login_screen - INFO - Sesión iniciada exitosamente para usuario: PPEREZ
+2025-12-09 10:44:25 - login_screen - INFO - Sesión iniciada exitosamente para usuario: PPEREZ
+2025-12-09 10:44:57 - login_screen - WARNING - Intento fallido para usuario: PPEREZ. Intentos recientes: 1
+2025-12-09 10:44:57 - login_screen - WARNING - Intento fallido para usuario: PPEREZ. Intentos recientes: 1
+2025-12-09 10:45:04 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:45:04 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:45:05 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:45:05 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:49:49 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 10:50:08 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:50:09 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:50:48 - login_screen - INFO - Sesión guardada para usuario: PPEREZ
+2025-12-09 10:50:48 - login_screen - INFO - Sesión guardada para usuario: PPEREZ
+2025-12-09 10:50:49 - login_screen - INFO - Sesión iniciada exitosamente para usuario: PPEREZ
+2025-12-09 10:50:49 - login_screen - INFO - Sesión iniciada exitosamente para usuario: PPEREZ
+2025-12-09 10:51:01 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:51:01 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 10:51:02 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:51:02 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 10:52:48 - login_screen - INFO - Intento de acceso a registro
+2025-12-09 10:52:48 - login_screen - INFO - Intento de acceso a registro
+2025-12-09 12:28:01 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 12:28:36 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-09 12:28:40 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 2
+2025-12-09 12:28:40 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 3
+2025-12-09 12:28:41 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 4
+2025-12-09 12:28:42 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 5
+2025-12-09 12:28:42 - login_screen - WARNING - Usuario bloqueado temporalmente: Rena hasta 2025-12-09 12:33:42.544098
+2025-12-09 12:28:47 - login_screen - WARNING - Intento de login bloqueado para usuario: Rena
+2025-12-09 12:28:52 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 12:28:57 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 12:29:00 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 12:29:01 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 12:31:15 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 1
+2025-12-09 12:31:15 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 1
+2025-12-09 12:31:20 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 2
+2025-12-09 12:31:20 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 2
+2025-12-09 12:31:22 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 3
+2025-12-09 12:31:22 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 3
+2025-12-09 12:31:23 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 4
+2025-12-09 12:31:23 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 4
+2025-12-09 12:31:23 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 5
+2025-12-09 12:31:23 - login_screen - WARNING - Intento fallido para usuario: PPPEREZ. Intentos recientes: 5
+2025-12-09 12:31:23 - login_screen - WARNING - Usuario bloqueado temporalmente: PPPEREZ hasta 2025-12-09 12:36:23.444349
+2025-12-09 12:31:23 - login_screen - WARNING - Usuario bloqueado temporalmente: PPPEREZ hasta 2025-12-09 12:36:23.444349
+2025-12-09 12:31:23 - login_screen - WARNING - Intento de login bloqueado para usuario: PPPEREZ
+2025-12-09 12:31:23 - login_screen - WARNING - Intento de login bloqueado para usuario: PPPEREZ
+2025-12-09 12:31:23 - login_screen - WARNING - Intento de login bloqueado para usuario: PPPEREZ
+2025-12-09 12:31:23 - login_screen - WARNING - Intento de login bloqueado para usuario: PPPEREZ
+2025-12-09 12:31:42 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 12:31:42 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 12:31:43 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 12:31:43 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 16:24:46 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 16:24:58 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-09 16:25:01 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 16:25:06 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 16:25:16 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-09 16:25:22 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 2
+2025-12-09 16:25:44 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-09 16:25:45 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-09 16:25:48 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 16:30:37 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 16:34:04 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 16:38:14 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 16:45:23 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 16:45:23 - login_screen - CRITICAL - Error fatal en la aplicación: '_tkinter.tkapp' object has no attribute 'recuperar_password'
+2025-12-09 16:45:36 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 17:53:27 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 17:53:41 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 18:01:35 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 18:10:50 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-09 18:18:58 - login_screen - INFO - Iniciando aplicación de login
+2025-12-09 18:19:30 - login_screen - INFO - Intento de acceso a registro
+2025-12-09 18:22:30 - login_screen - INFO - Aplicación cerrada por el usuario

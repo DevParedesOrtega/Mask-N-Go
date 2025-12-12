@@ -1,0 +1,49 @@
+2025-12-11 16:08:32 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:18:09 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:24:26 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:33:23 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:38:01 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:43:38 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 16:44:11 - venta_controller - INFO - Folio generado: VEN-164411-a49a
+2025-12-11 16:44:11 - venta_controller - ERROR - Error al registrar venta: Error al insertar venta en BD
+2025-12-11 17:22:08 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 17:22:26 - venta_controller - INFO - Folio generado: VEN-172226-ea7e
+2025-12-11 17:22:26 - venta_controller - ERROR - Error al registrar venta: Error al insertar venta en BD
+2025-12-11 17:30:49 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 17:31:31 - venta_controller - INFO - Folio generado: VEN-173131-403c
+2025-12-11 17:31:31 - venta_controller - INFO - Venta registrada exitosamente. Folio: VEN-173131-403c (ID: 17)
+2025-12-11 17:31:32 - venta_controller - INFO - Obtenido resumen de últimas 0 ventas
+2025-12-11 17:44:44 - venta_controller - ERROR - Error inesperado al obtener resumen de ventas: 'NoneType' object is not iterable
+2025-12-11 17:44:52 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 0, 'total_bruto': 0.0, 'total_descuentos': 0.0, 'total_final': 0.0, 'clientes_unicos': 0, 'ticket_promedio': 0.0}
+2025-12-11 17:45:38 - venta_controller - INFO - Obtenido resumen de últimas 1 ventas
+2025-12-11 17:51:59 - venta_controller - ERROR - Error inesperado al obtener resumen de ventas: unsupported operand type(s) for -: 'str' and 'decimal.Decimal'
+2025-12-11 17:51:59 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 1, 'total_bruto': 1850.0, 'total_descuentos': 0.0, 'total_final': 1850.0, 'clientes_unicos': 1, 'ticket_promedio': 1850.0}
+2025-12-11 18:11:02 - venta_controller - INFO - Obtenido resumen de últimas 1 ventas
+2025-12-11 18:20:05 - venta_controller - INFO - Obtenido resumen de últimas 1 ventas
+2025-12-11 18:20:05 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 1, 'total_bruto': 1850.0, 'total_descuentos': 0.0, 'total_final': 1850.0, 'clientes_unicos': 1, 'ticket_promedio': 1850.0}
+2025-12-11 18:26:37 - venta_controller - INFO - Obtenido resumen de últimas 1 ventas
+2025-12-11 18:26:37 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 1, 'total_bruto': 1850.0, 'total_descuentos': 0.0, 'total_final': 1850.0, 'clientes_unicos': 1, 'ticket_promedio': 1850.0}
+2025-12-11 18:26:58 - venta_controller - INFO - Folio generado: 20251211-00001
+2025-12-11 18:26:58 - venta_controller - INFO - Venta registrada exitosamente. Folio: 20251211-00001 (ID: 18)
+2025-12-11 18:26:59 - venta_controller - INFO - Obtenido resumen de últimas 1 ventas
+2025-12-11 18:26:59 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 1, 'total_bruto': 1850.0, 'total_descuentos': 0.0, 'total_final': 1850.0, 'clientes_unicos': 1, 'ticket_promedio': 1850.0}
+2025-12-11 18:27:02 - venta_controller - INFO - Obtenido resumen de últimas 2 ventas
+2025-12-11 18:27:02 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 2, 'total_bruto': 19350.0, 'total_descuentos': 0.0, 'total_final': 19350.0, 'clientes_unicos': 1, 'ticket_promedio': 9675.0}
+2025-12-11 18:27:16 - venta_controller - INFO - Folio generado: 20251211-00002
+2025-12-11 18:27:16 - venta_controller - INFO - Venta registrada exitosamente. Folio: 20251211-00002 (ID: 19)
+2025-12-11 18:27:17 - venta_controller - INFO - Obtenido resumen de últimas 2 ventas
+2025-12-11 18:27:17 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 2, 'total_bruto': 19350.0, 'total_descuentos': 0.0, 'total_final': 19350.0, 'clientes_unicos': 1, 'ticket_promedio': 9675.0}
+2025-12-11 18:27:19 - venta_controller - INFO - Obtenido resumen de últimas 3 ventas
+2025-12-11 18:27:19 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 3, 'total_bruto': 23350.0, 'total_descuentos': 0.0, 'total_final': 23350.0, 'clientes_unicos': 1, 'ticket_promedio': 7783.333333333333}
+2025-12-11 20:09:30 - venta_controller - INFO - Obtenido resumen de últimas 3 ventas
+2025-12-11 20:09:30 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 3, 'total_bruto': 23350.0, 'total_descuentos': 0.0, 'total_final': 23350.0, 'clientes_unicos': 1, 'ticket_promedio': 7783.333333333333}
+2025-12-11 20:12:33 - venta_controller - INFO - Obtenido resumen de últimas 3 ventas
+2025-12-11 20:12:33 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 3, 'total_bruto': 23350.0, 'total_descuentos': 0.0, 'total_final': 23350.0, 'clientes_unicos': 1, 'ticket_promedio': 7783.333333333333}
+2025-12-11 20:13:47 - venta_controller - INFO - Obtenido resumen de últimas 3 ventas
+2025-12-11 20:13:47 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 3, 'total_bruto': 23350.0, 'total_descuentos': 0.0, 'total_final': 23350.0, 'clientes_unicos': 1, 'ticket_promedio': 7783.333333333333}
+2025-12-11 20:14:30 - venta_controller - INFO - Folio generado: 20251211-00003
+2025-12-11 20:14:30 - venta_controller - INFO - Venta registrada exitosamente. Folio: 20251211-00003 (ID: 20)
+2025-12-11 20:14:32 - venta_controller - INFO - Obtenido resumen de últimas 3 ventas
+2025-12-11 20:14:32 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 3, 'total_bruto': 23350.0, 'total_descuentos': 0.0, 'total_final': 23350.0, 'clientes_unicos': 1, 'ticket_promedio': 7783.333333333333}
+2025-12-11 20:14:35 - venta_controller - INFO - Obtenido resumen de últimas 4 ventas
+2025-12-11 20:14:35 - venta_controller - INFO - Estadísticas de ventas del día 2025-12-11: {'fecha': '2025-12-11', 'cantidad_ventas': 4, 'total_bruto': 30850.0, 'total_descuentos': 0.0, 'total_final': 30850.0, 'clientes_unicos': 2, 'ticket_promedio': 7712.5}

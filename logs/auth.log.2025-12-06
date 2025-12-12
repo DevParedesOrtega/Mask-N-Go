@@ -1,0 +1,10 @@
+2025-12-06 09:54:19 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'Rena' no encontrado
+2025-12-06 09:55:31 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-06 09:55:35 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-06 09:55:50 - auth_controller - WARNING - Intento de actualizar usuario sin sesión activa
+2025-12-06 10:28:18 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-06 10:28:21 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-06 10:28:33 - auth_controller - INFO - Usuario ID 49 actualizado exitosamente
+2025-12-06 10:28:33 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-06 10:44:37 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-06 11:44:37 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa

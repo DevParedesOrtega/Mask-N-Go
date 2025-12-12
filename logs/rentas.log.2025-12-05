@@ -1,0 +1,19 @@
+2025-12-05 15:24:31 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 15:24:32 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 16:18:57 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 16:41:51 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 16:53:16 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:01:18 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:29:56 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:30:36 - renta_controller - WARNING - Intento de registrar renta con usuario inexistente: ID 1
+2025-12-05 17:30:36 - renta_controller - WARNING - Intento de registrar renta fallido: Usuario con ID 1 no encontrado
+2025-12-05 17:30:53 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:31:11 - renta_controller - INFO - Renta registrada correctamente (ID 69)
+2025-12-05 17:31:12 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:31:46 - renta_controller - INFO - Listando rentas activas - encontradas: 23
+2025-12-05 17:34:04 - renta_controller - INFO - Renta ID 69 devuelta. Días retraso: 0, Penalización: 0.00, Depósito devuelto: 0.00
+2025-12-05 17:34:05 - renta_controller - INFO - Listando rentas activas - encontradas: 22
+2025-12-05 17:34:07 - renta_controller - INFO - Renta ID 68 devuelta. Días retraso: 0, Penalización: 0.00, Depósito devuelto: 0.00
+2025-12-05 17:34:08 - renta_controller - INFO - Listando rentas activas - encontradas: 21
+2025-12-05 17:37:11 - renta_controller - INFO - Renta ID 67 devuelta. Días retraso: 0, Penalización: 0.00, Depósito devuelto: 0.00
+2025-12-05 17:37:12 - renta_controller - INFO - Listando rentas activas - encontradas: 20

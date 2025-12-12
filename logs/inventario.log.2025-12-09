@@ -1,0 +1,22 @@
+2025-12-09 10:45:19 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 10:45:19 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 10:51:04 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 10:51:04 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 10:51:15 - inventario_controller - INFO - Buscando disfraces por descripción 'spider' - encontrados: 1
+2025-12-09 10:51:54 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 10:51:54 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:16:40 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:16:40 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:19:37 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:19:37 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:20:19 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:20:19 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:20:24 - inventario_controller - INFO - Buscando disfraces por descripción 'woody' - encontrados: 1
+2025-12-09 11:21:26 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:21:26 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:45:37 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:45:37 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 11:45:40 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 11:45:40 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-09 12:29:25 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-09 12:29:25 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5

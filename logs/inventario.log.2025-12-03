@@ -1,0 +1,53 @@
+2025-12-03 11:32:17 - inventario_controller - INFO - Listando disfraces - encontrados: 4 (solo_activos=True, categoria=None)
+2025-12-03 11:32:17 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 4
+2025-12-03 11:33:20 - inventario_controller - INFO - Listando disfraces - encontrados: 4 (solo_activos=True, categoria=None)
+2025-12-03 11:33:20 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 4
+2025-12-03 11:33:56 - inventario_controller - INFO - Disfraz con código 'diseny0008' no encontrado
+2025-12-03 11:33:56 - inventario_controller - INFO - Disfraz 'ejemplo' agregado exitosamente en INVENTARIO
+2025-12-03 11:33:56 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 11:33:56 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-03 11:34:13 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 11:35:06 - inventario_controller - INFO - Stock descontado para diseny0008: -1 (nuevo disponible=9)
+2025-12-03 13:46:05 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 13:46:22 - inventario_controller - INFO - Stock descontado para DISNEY0000: -1 (nuevo disponible=3)
+2025-12-03 13:46:22 - inventario_controller - INFO - Stock descontado para DISNEY0004: -1 (nuevo disponible=14)
+2025-12-03 13:46:22 - inventario_controller - INFO - Stock descontado para DISNEY0001: -1 (nuevo disponible=9)
+2025-12-03 13:46:22 - inventario_controller - INFO - Stock descontado para DISNEY0003: -1 (nuevo disponible=9)
+2025-12-03 14:08:44 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 14:08:56 - inventario_controller - INFO - Stock descontado para diseny0008: -1 (nuevo disponible=8)
+2025-12-03 14:08:59 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 14:08:59 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-03 14:38:17 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 14:38:17 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-03 14:41:16 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:13:07 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:23:24 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:29:08 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:33:02 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:33:20 - inventario_controller - INFO - Disfraz con código 's' no encontrado
+2025-12-03 16:33:20 - inventario_controller - INFO - Buscando disfraces por descripción 's' - encontrados: 2
+2025-12-03 16:33:54 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:34:21 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:34:29 - inventario_controller - INFO - Disfraz con código 'di' no encontrado
+2025-12-03 16:34:29 - inventario_controller - INFO - Buscando disfraces por descripción 'di' - encontrados: 0
+2025-12-03 16:36:28 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:42:13 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:43:28 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:53:14 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 16:53:27 - inventario_controller - INFO - Disfraz con código 'disney' no encontrado
+2025-12-03 16:53:27 - inventario_controller - INFO - Buscando disfraces por descripción 'disney' - encontrados: 0
+2025-12-03 17:01:58 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:14:42 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:14:52 - inventario_controller - INFO - Disfraz con código 'disney' no encontrado
+2025-12-03 17:14:52 - inventario_controller - INFO - Buscando disfraces por descripción 'disney' - encontrados: 0
+2025-12-03 17:23:01 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:23:01 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5
+2025-12-03 17:23:03 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:23:22 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:29:48 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 17:54:48 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 18:07:22 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 18:12:32 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 18:20:39 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 18:23:33 - inventario_controller - INFO - Listando disfraces - encontrados: 5 (solo_activos=True, categoria=None)
+2025-12-03 18:23:33 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 5

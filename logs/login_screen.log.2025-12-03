@@ -1,0 +1,36 @@
+2025-12-03 11:30:49 - login_screen - INFO - Iniciando aplicación de login
+2025-12-03 11:31:49 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 1
+2025-12-03 11:31:55 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 2
+2025-12-03 11:31:57 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 3
+2025-12-03 11:31:58 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 4
+2025-12-03 11:31:58 - login_screen - WARNING - Intento fallido para usuario: ByteOrtega. Intentos recientes: 5
+2025-12-03 11:31:58 - login_screen - WARNING - Usuario bloqueado temporalmente: ByteOrtega hasta 2025-12-03 11:36:58.311933
+2025-12-03 11:31:58 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:31:58 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:31:58 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:32:00 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:32:00 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:32:00 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:32:00 - login_screen - WARNING - Intento de login bloqueado para usuario: ByteOrtega
+2025-12-03 11:32:08 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-03 11:32:09 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-03 13:45:16 - login_screen - INFO - Iniciando aplicación de login
+2025-12-03 13:45:30 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-03 13:45:35 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 2
+2025-12-03 13:45:36 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 3
+2025-12-03 13:45:37 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 4
+2025-12-03 13:45:38 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 5
+2025-12-03 13:45:38 - login_screen - WARNING - Usuario bloqueado temporalmente: Rena hasta 2025-12-03 13:50:38.544414
+2025-12-03 13:45:41 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-03 13:45:43 - login_screen - INFO - Iniciando aplicación de login
+2025-12-03 13:45:47 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-03 13:45:48 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 2
+2025-12-03 13:45:53 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-03 13:45:54 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-03 14:08:33 - login_screen - INFO - Iniciando aplicación de login
+2025-12-03 14:08:38 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-03 14:08:39 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-03 14:44:56 - login_screen - INFO - Iniciando aplicación de login
+2025-12-03 14:45:20 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-03 14:45:24 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-03 14:45:25 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena

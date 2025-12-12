@@ -1,0 +1,55 @@
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con teléfono +52 618 000 0000 no encontrado
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente 'ClientePrueba Test' agregado exitosamente con ID 32
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de registro con teléfono duplicado: +52 618 000 0000
+2025-12-01 14:59:11 - cliente_controller - INFO - Buscando clientes por nombre 'ClientePrueba' - encontrados: 1
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente ID 32 actualizado exitosamente
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con teléfono +52 618 999 9999 no encontrado
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente ID 32 actualizado exitosamente
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente 32 sin transacciones. Eliminando completamente...
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente ID 32 eliminado completamente de la base de datos
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con ID 32 no encontrado
+2025-12-01 14:59:11 - cliente_controller - INFO - Listando clientes - total: 2 (solo_activos=True)
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de registro de cliente fallido: Nombre inválido: El nombre no puede estar vacío
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de registro de cliente fallido: Apellido inválido: El nombre no puede estar vacío
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de registro de cliente fallido: Teléfono inválido: El teléfono debe tener al menos 10 dígitos
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de registro de cliente fallido: Teléfono inválido: El teléfono solo puede contener números y caracteres de formato (-, +, (), espacios)
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con ID 999999 no encontrado
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con teléfono +52 999 999 9999 no encontrado
+2025-12-01 14:59:11 - cliente_controller - INFO - Cliente con ID 999999 no encontrado
+2025-12-01 14:59:11 - cliente_controller - WARNING - Intento de eliminar cliente inexistente: ID 999999
+2025-12-01 14:59:11 - cliente_controller - INFO - Buscando clientes por nombre '' - encontrados: 2
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con teléfono +52 618 000 0000 no encontrado
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente 'ClientePrueba Test' agregado exitosamente con ID 33
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de registro con teléfono duplicado: +52 618 000 0000
+2025-12-01 14:59:23 - cliente_controller - INFO - Buscando clientes por nombre 'ClientePrueba' - encontrados: 1
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente ID 33 actualizado exitosamente
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con teléfono +52 618 999 9999 no encontrado
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente ID 33 actualizado exitosamente
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente 33 sin transacciones. Eliminando completamente...
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente ID 33 eliminado completamente de la base de datos
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con ID 33 no encontrado
+2025-12-01 14:59:23 - cliente_controller - INFO - Listando clientes - total: 2 (solo_activos=True)
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de registro de cliente fallido: Nombre inválido: El nombre no puede estar vacío
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de registro de cliente fallido: Apellido inválido: El nombre no puede estar vacío
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de registro de cliente fallido: Teléfono inválido: El teléfono debe tener al menos 10 dígitos
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de registro de cliente fallido: Teléfono inválido: El teléfono solo puede contener números y caracteres de formato (-, +, (), espacios)
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con ID 999999 no encontrado
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con teléfono +52 999 999 9999 no encontrado
+2025-12-01 14:59:23 - cliente_controller - INFO - Cliente con ID 999999 no encontrado
+2025-12-01 14:59:23 - cliente_controller - WARNING - Intento de eliminar cliente inexistente: ID 999999
+2025-12-01 14:59:23 - cliente_controller - INFO - Buscando clientes por nombre '' - encontrados: 2
+2025-12-01 15:22:08 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 15:22:08 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 36
+2025-12-01 15:22:13 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 15:22:13 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 37
+2025-12-01 15:26:14 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 15:26:14 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 38
+2025-12-01 16:41:26 - cliente_controller - WARNING - Intento de registro con teléfono duplicado: +52 618 222 2222
+2025-12-01 16:41:26 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 16:41:26 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 39
+2025-12-01 16:47:01 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 16:47:01 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 40
+2025-12-01 16:54:32 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 16:54:32 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 41
+2025-12-01 17:00:00 - cliente_controller - INFO - Cliente con teléfono +52 618 222 2222 no encontrado
+2025-12-01 17:00:00 - cliente_controller - INFO - Cliente 'ClienteRenta Test' agregado exitosamente con ID 42

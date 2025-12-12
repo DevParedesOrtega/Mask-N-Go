@@ -1,0 +1,18 @@
+2025-12-11 17:30:46 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-11 17:45:35 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-11 18:26:34 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-11 20:09:20 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-11 20:09:35 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-11 20:09:40 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-11 20:09:58 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-11 20:10:06 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-11 20:10:11 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-11 20:10:20 - auth_controller - WARNING - No se pudo eliminar el usuario ID 49
+2025-12-11 20:10:30 - auth_controller - INFO - Usuario 'Profesor' (ID 50) eliminado exitosamente
+2025-12-11 20:10:31 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-11 20:10:35 - auth_controller - INFO - Usuario 'PPEREZ' (ID 51) eliminado exitosamente
+2025-12-11 20:10:35 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-11 20:12:04 - auth_controller - INFO - Usuario 'JorgeParedes' registrado exitosamente en USUARIOS (ID=52)
+2025-12-11 20:12:05 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-11 20:12:08 - auth_controller - INFO - Sesión cerrada: Renatha Becerril
+2025-12-11 20:12:17 - auth_controller - INFO - Sesión iniciada: Jorge Paredes (empleado)

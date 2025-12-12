@@ -1,0 +1,28 @@
+2025-12-08 15:23:49 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (empleado)
+2025-12-08 15:32:38 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-08 15:50:32 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 15:50:34 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-08 15:58:37 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 15:58:40 - auth_controller - INFO - Listado de usuarios: 3 encontrados
+2025-12-08 15:59:05 - auth_controller - INFO - Usuario 'Profesor' registrado exitosamente en USUARIOS (ID=50)
+2025-12-08 15:59:05 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:14:16 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:14:19 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:29:02 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:29:05 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:33:09 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:33:12 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:34:00 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:34:03 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:34:16 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:34:19 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 16:42:34 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 16:42:36 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 17:36:40 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 17:36:43 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 17:43:20 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 17:43:25 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 17:56:05 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 17:56:08 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-08 18:25:06 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-08 18:25:23 - auth_controller - INFO - Listado de usuarios: 4 encontrados

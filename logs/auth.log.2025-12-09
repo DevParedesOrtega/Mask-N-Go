@@ -1,0 +1,61 @@
+2025-12-09 10:42:04 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 10:42:08 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 10:42:11 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 10:42:15 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 10:42:19 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-09 10:42:48 - auth_controller - INFO - Usuario ID 49 actualizado exitosamente (con pregunta de seguridad)
+2025-12-09 10:42:48 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-09 10:42:52 - auth_controller - INFO - Sesión cerrada: Renatha Becerril
+2025-12-09 10:42:59 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'ByteOrtega'
+2025-12-09 10:43:34 - auth_controller - INFO - Sesión iniciada: Jorge Paredes (admin)
+2025-12-09 10:43:40 - auth_controller - INFO - Listado de usuarios: 4 encontrados
+2025-12-09 10:44:13 - auth_controller - INFO - Usuario 'PPEREZ' registrado exitosamente en USUARIOS (ID=51)
+2025-12-09 10:44:13 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 10:44:16 - auth_controller - INFO - Sesión cerrada: Jorge Paredes
+2025-12-09 10:44:24 - auth_controller - INFO - Sesión iniciada: pepe perez (empleado)
+2025-12-09 10:44:28 - auth_controller - INFO - Sesión cerrada: pepe perez
+2025-12-09 10:44:50 - auth_controller - INFO - Contraseña actualizada para usuario ID: 51
+2025-12-09 10:44:57 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'PPEREZ'
+2025-12-09 10:45:04 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 10:45:45 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 10:45:58 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 10:50:08 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 10:50:11 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 10:50:14 - auth_controller - INFO - Sesión cerrada: Renatha Becerril
+2025-12-09 10:50:44 - auth_controller - INFO - Contraseña actualizada para usuario ID: 51
+2025-12-09 10:50:48 - auth_controller - INFO - Sesión iniciada: pepe perez (empleado)
+2025-12-09 10:50:56 - auth_controller - INFO - Sesión cerrada: pepe perez
+2025-12-09 10:51:01 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 10:51:31 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 10:52:45 - auth_controller - INFO - Sesión cerrada: Renatha Becerril
+2025-12-09 11:12:59 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 11:13:56 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 11:14:24 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 11:14:55 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 11:16:45 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 12:28:36 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 12:28:40 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 12:28:40 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 12:28:41 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 12:28:42 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 12:28:52 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 12:29:00 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 12:30:13 - auth_controller - INFO - Listado de usuarios: 5 encontrados
+2025-12-09 12:30:38 - auth_controller - INFO - Sesión cerrada: Renatha Becerril
+2025-12-09 12:31:15 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'PPPEREZ' no encontrado
+2025-12-09 12:31:20 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'PPPEREZ' no encontrado
+2025-12-09 12:31:22 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'PPPEREZ' no encontrado
+2025-12-09 12:31:23 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'PPPEREZ' no encontrado
+2025-12-09 12:31:23 - auth_controller - WARNING - Intento de inicio de sesión fallido: usuario 'PPPEREZ' no encontrado
+2025-12-09 12:31:42 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 16:24:58 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 16:25:01 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 16:25:16 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 16:25:22 - auth_controller - WARNING - Intento de inicio de sesión fallido: contraseña incorrecta para 'Rena'
+2025-12-09 16:25:44 - auth_controller - INFO - Sesión iniciada: Renatha Becerril (admin)
+2025-12-09 16:30:37 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 16:38:14 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 17:53:41 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 18:10:50 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa
+2025-12-09 18:19:26 - auth_controller - INFO - Contraseña actualizada para usuario ID: 49
+2025-12-09 18:22:30 - auth_controller - INFO - Intento de cerrar sesión, pero no había sesión activa

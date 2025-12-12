@@ -1,0 +1,3 @@
+2025-12-11 18:21:00 - venta_model - INFO - Venta creada: Folio VEN-173131-403c, Cliente 31, Total $1850.00
+2025-12-11 18:21:00 - venta_model - INFO - DetalleVenta creado: DISNEY0003 (Cant: 1, $1850.00)
+2025-12-11 18:21:00 - venta_model - INFO - Detalle agregado a venta VEN-173131-403c: DISNEY0003

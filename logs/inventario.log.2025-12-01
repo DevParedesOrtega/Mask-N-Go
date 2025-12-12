@@ -1,0 +1,58 @@
+2025-12-01 15:13:54 - inventario_controller - INFO - Disfraz con código 'TEST001' no encontrado
+2025-12-01 15:13:54 - inventario_controller - INFO - Disfraz 'Spider-Man Test' agregado exitosamente en INVENTARIO
+2025-12-01 15:13:54 - inventario_controller - INFO - Buscando disfraces por categoría 'Superheroes' - encontrados: 2
+2025-12-01 15:13:54 - inventario_controller - INFO - Buscando disfraces por descripción 'Spider' - encontrados: 2
+2025-12-01 15:13:54 - inventario_controller - INFO - Stock insuficiente para descontar: disponible=10, solicitado=15
+2025-12-01 15:13:54 - inventario_controller - INFO - Stock descontado para TEST001: -3 (nuevo disponible=7)
+2025-12-01 15:13:55 - inventario_controller - INFO - Stock aumentado para TEST001: +3 (nuevo disponible=10)
+2025-12-01 15:13:55 - inventario_controller - INFO - Disfraz 'TEST001' actualizado exitosamente
+2025-12-01 15:13:55 - inventario_controller - INFO - Listando disfraces disponibles - encontrados: 2
+2025-12-01 15:13:55 - inventario_controller - INFO - Disfraz 'TEST001' sin movimiento. Eliminando completamente...
+2025-12-01 15:13:55 - inventario_controller - INFO - Disfraz 'TEST001' eliminado completamente de la base de datos
+2025-12-01 15:13:55 - inventario_controller - INFO - Disfraz con código 'TEST001' no encontrado
+2025-12-01 15:22:08 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 15:22:08 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 15:22:08 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 15:22:08 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 15:22:08 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 15:22:08 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 15:22:13 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 15:22:13 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 15:22:13 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 15:22:13 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 15:22:13 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 15:22:13 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 15:26:14 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 15:26:14 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 15:26:14 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 15:26:14 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 15:26:14 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 16:41:26 - inventario_controller - WARNING - Intento de agregar disfraz duplicado: RENTEST001
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=7)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=9)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=7)
+2025-12-01 16:41:26 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 16:41:26 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 16:41:26 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 16:47:01 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 16:47:01 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 16:47:01 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 16:47:01 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 16:47:01 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 16:47:01 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 16:54:32 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 16:54:32 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 16:54:32 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 16:54:32 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 16:54:32 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 16:54:32 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)
+2025-12-01 17:00:00 - inventario_controller - INFO - Disfraz con código 'RENTEST001' no encontrado
+2025-12-01 17:00:00 - inventario_controller - INFO - Disfraz 'Disfraz Test Rentas' agregado exitosamente en INVENTARIO
+2025-12-01 17:00:00 - inventario_controller - INFO - Stock descontado para RENTEST001: -2 (nuevo disponible=8)
+2025-12-01 17:00:00 - inventario_controller - INFO - Stock aumentado para RENTEST001: +2 (nuevo disponible=10)
+2025-12-01 17:00:00 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=9)
+2025-12-01 17:00:00 - inventario_controller - INFO - Stock descontado para RENTEST001: -1 (nuevo disponible=8)

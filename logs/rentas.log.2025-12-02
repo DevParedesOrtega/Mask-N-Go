@@ -1,0 +1,80 @@
+2025-12-02 08:01:54 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:02:51 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:11:29 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:12:06 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:12:53 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:14:34 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:14:54 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:15:16 - renta_controller - WARNING - Intento de registrar renta con usuario inexistente: ID 1
+2025-12-02 08:15:16 - renta_controller - WARNING - Intento de registrar renta fallido: Usuario con ID 1 no encontrado
+2025-12-02 08:15:35 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:15:55 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:16:53 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:17:10 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:18:02 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:18:23 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:20:10 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:20:31 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:32:57 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:33:14 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:38:19 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:38:36 - renta_controller - ERROR - Error inesperado en registrar_renta: 'codigo_barras'
+2025-12-02 08:44:33 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:44:52 - renta_controller - INFO - Renta registrada correctamente (ID 46)
+2025-12-02 08:44:54 - renta_controller - INFO - Listando rentas activas - encontradas: 0
+2025-12-02 08:44:58 - renta_controller - INFO - Listando rentas activas - encontradas: 1
+2025-12-02 08:46:38 - renta_controller - INFO - Renta registrada correctamente (ID 47)
+2025-12-02 08:46:41 - renta_controller - INFO - Listando rentas activas - encontradas: 1
+2025-12-02 08:46:43 - renta_controller - INFO - Listando rentas activas - encontradas: 2
+2025-12-02 08:50:18 - renta_controller - INFO - Listando rentas activas - encontradas: 2
+2025-12-02 08:51:15 - renta_controller - INFO - Renta registrada correctamente (ID 48)
+2025-12-02 08:51:17 - renta_controller - INFO - Listando rentas activas - encontradas: 2
+2025-12-02 08:55:40 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 08:55:47 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 08:56:08 - renta_controller - INFO - Renta registrada correctamente (ID 49)
+2025-12-02 08:56:09 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 08:56:17 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 08:56:27 - renta_controller - INFO - Renta ID 46 devuelta por usuario ID 31. Días retraso: 0, Penalización: 0.00, Depósito devuelto: 2000.00
+2025-12-02 08:56:53 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 08:57:58 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 08:58:10 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 09:00:01 - renta_controller - INFO - Renta registrada correctamente (ID 50)
+2025-12-02 09:00:03 - renta_controller - INFO - Listando rentas activas - encontradas: 3
+2025-12-02 09:00:05 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 09:01:02 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 09:01:31 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 15:35:25 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 15:38:49 - renta_controller - INFO - Renta registrada correctamente (ID 51)
+2025-12-02 15:38:50 - renta_controller - INFO - Listando rentas activas - encontradas: 4
+2025-12-02 16:00:14 - renta_controller - INFO - Listando rentas activas - encontradas: 5
+2025-12-02 16:00:40 - renta_controller - INFO - Renta registrada correctamente (ID 52)
+2025-12-02 16:00:41 - renta_controller - INFO - Listando rentas activas - encontradas: 5
+2025-12-02 16:00:44 - renta_controller - INFO - Listando rentas activas - encontradas: 6
+2025-12-02 16:30:11 - renta_controller - INFO - Listando rentas activas - encontradas: 6
+2025-12-02 16:41:39 - renta_controller - INFO - Listando rentas activas - encontradas: 6
+2025-12-02 16:48:40 - renta_controller - INFO - Listando rentas activas - encontradas: 6
+2025-12-02 16:49:07 - renta_controller - INFO - Renta registrada correctamente (ID 53)
+2025-12-02 16:49:25 - renta_controller - INFO - Listando rentas activas - encontradas: 7
+2025-12-02 17:06:42 - renta_controller - INFO - Listando rentas activas - encontradas: 7
+2025-12-02 17:07:24 - renta_controller - INFO - Renta registrada correctamente (ID 54)
+2025-12-02 17:07:36 - renta_controller - INFO - Listando rentas activas - encontradas: 8
+2025-12-02 17:16:55 - renta_controller - INFO - Listando rentas activas - encontradas: 8
+2025-12-02 17:17:13 - renta_controller - INFO - Renta registrada correctamente (ID 55)
+2025-12-02 17:17:14 - renta_controller - INFO - Listando rentas activas - encontradas: 8
+2025-12-02 17:17:39 - renta_controller - INFO - Listando rentas activas - encontradas: 9
+2025-12-02 17:35:26 - renta_controller - INFO - Listando rentas activas - encontradas: 9
+2025-12-02 17:36:31 - renta_controller - INFO - Renta registrada correctamente (ID 56)
+2025-12-02 17:36:33 - renta_controller - INFO - Listando rentas activas - encontradas: 9
+2025-12-02 17:36:44 - renta_controller - INFO - Listando rentas activas - encontradas: 10
+2025-12-02 17:58:46 - renta_controller - INFO - Listando rentas activas - encontradas: 10
+2025-12-02 17:59:15 - renta_controller - INFO - Renta registrada correctamente (ID 57)
+2025-12-02 17:59:16 - renta_controller - INFO - Listando rentas activas - encontradas: 10
+2025-12-02 18:02:08 - renta_controller - INFO - Listando rentas activas - encontradas: 11
+2025-12-02 18:24:19 - renta_controller - INFO - Listando rentas activas - encontradas: 11
+2025-12-02 18:44:57 - renta_controller - INFO - Listando rentas activas - encontradas: 11
+2025-12-02 18:45:16 - renta_controller - INFO - Renta registrada correctamente (ID 58)
+2025-12-02 18:45:18 - renta_controller - INFO - Listando rentas activas - encontradas: 11
+2025-12-02 18:58:42 - renta_controller - INFO - Listando rentas activas - encontradas: 12
+2025-12-02 18:59:02 - renta_controller - INFO - Renta registrada correctamente (ID 59)
+2025-12-02 18:59:06 - renta_controller - INFO - Listando rentas activas - encontradas: 12
+2025-12-02 18:59:24 - renta_controller - INFO - Listando rentas activas - encontradas: 13

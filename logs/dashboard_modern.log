@@ -1,0 +1,12 @@
+2025-12-02 08:00:14 - dashboard_modern - INFO - Dashboard iniciado para usuario: Rena (ID: 31, Rol: admin)
+2025-12-02 08:00:14 - dashboard_modern - INFO - Usuario Rena accedió a la vista de inicio
+2025-12-02 08:00:15 - dashboard_modern - INFO - Iniciando refresco automático de datos
+2025-12-02 08:00:16 - dashboard_modern - INFO - Usuario Rena cambió a vista: inventario
+2025-12-02 08:00:17 - dashboard_modern - INFO - Usuario Rena accedió a la vista de inventario
+2025-12-02 08:00:17 - dashboard_modern - ERROR - Error al cargar inventario: 'InventarioController' object has no attribute 'listar_disfraces_activos'
+2025-12-02 08:00:18 - dashboard_modern - INFO - Usuario Rena cambió a vista: clientes
+2025-12-02 08:00:18 - dashboard_modern - INFO - Usuario Rena accedió a la vista de clientes
+2025-12-02 08:00:20 - dashboard_modern - INFO - Usuario Rena cambió a vista: usuarios
+2025-12-02 08:00:20 - dashboard_modern - INFO - Usuario Rena accedió a la vista de usuarios
+2025-12-02 08:00:21 - dashboard_modern - INFO - Usuario Rena intentó editar usuario: Rena
+2025-12-02 08:00:23 - dashboard_modern - INFO - Usuario Rena intentó editar usuario: admin

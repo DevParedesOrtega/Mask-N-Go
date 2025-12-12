@@ -1,0 +1,45 @@
+2025-12-04 16:15:26 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 16:19:20 - login_screen - WARNING - Intento fallido para usuario: Rena. Intentos recientes: 1
+2025-12-04 16:19:30 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:19:31 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 16:42:22 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 16:42:26 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:42:27 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 16:43:50 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:43:50 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:43:51 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 16:43:51 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 16:51:21 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 16:51:25 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:51:26 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 16:55:47 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 16:56:31 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 16:56:32 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:09:33 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:09:38 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:09:39 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:20:39 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:20:43 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:20:44 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:20:44 - login_screen - ERROR - Error de importación al abrir dashboard: cannot import name 'DashboardModern' from 'views.dashboard_modern' (c:\Users\ByteOrtega\Documents\TI UTD\INTEGRADORA\views\dashboard_modern.py)
+2025-12-04 17:20:51 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-04 17:21:43 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:22:10 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:22:11 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:22:11 - login_screen - ERROR - Error de importación al abrir dashboard: cannot import name 'DashboardModern' from 'views.dashboard_modern' (c:\Users\ByteOrtega\Documents\TI UTD\INTEGRADORA\views\dashboard_modern.py)
+2025-12-04 17:22:46 - login_screen - INFO - Aplicación cerrada por el usuario
+2025-12-04 17:22:55 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:22:58 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:22:59 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:27:08 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:27:11 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:27:12 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 17:45:23 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 17:45:27 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 17:45:28 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 18:06:40 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 18:06:44 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 18:06:45 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena
+2025-12-04 18:24:09 - login_screen - INFO - Iniciando aplicación de login
+2025-12-04 18:24:14 - login_screen - INFO - Sesión guardada para usuario: Rena
+2025-12-04 18:24:15 - login_screen - INFO - Sesión iniciada exitosamente para usuario: Rena

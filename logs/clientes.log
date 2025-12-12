@@ -1,0 +1,18 @@
+2025-12-11 16:08:35 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 16:18:10 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 16:24:28 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 16:33:25 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 16:38:02 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 16:43:40 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 17:22:09 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 17:30:51 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 18:26:38 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 18:27:05 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 20:09:32 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 20:12:34 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 20:12:39 - cliente_controller - INFO - Listando clientes - total: 1 (solo_activos=True)
+2025-12-11 20:12:54 - cliente_controller - INFO - Buscando duplicados para Andrea Garvalena - encontrados: 1
+2025-12-11 20:13:07 - cliente_controller - INFO - Cliente con teléfono 618123456789 no encontrado
+2025-12-11 20:13:07 - cliente_controller - INFO - Cliente 'Andrea Garvalena' agregado exitosamente con ID 44
+2025-12-11 20:13:08 - cliente_controller - INFO - Listando clientes - total: 2 (solo_activos=True)
+2025-12-11 20:13:51 - cliente_controller - INFO - Listando clientes - total: 2 (solo_activos=True)
